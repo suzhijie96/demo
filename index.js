@@ -18,3 +18,7 @@ var app2 = new Vue({
         bool:'对象语法',
     }
 });
+
+var app22 = new Vue({
+    el:
+});
